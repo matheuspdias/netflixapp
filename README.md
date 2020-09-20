@@ -6,7 +6,7 @@
 
 # Clonando repo
 
-###### Abre o terminal e clone o projeto com o comando: git clone git@github.com:matheuspdias/netflixclone.git
+###### Abre o terminal e clone o projeto com o comando: git clone git@github.com:matheuspdias/netflixapp.git
 
 # Instalando Dependencias
 
