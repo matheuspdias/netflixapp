@@ -1,4 +1,4 @@
-# Clone Netflix 
+# Clone Netflix (React Native)
 
 ![netflix](https://raw.githubusercontent.com/matheuspdias/netflixapp/master/netflixapp.gif)
 
